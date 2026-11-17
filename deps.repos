@@ -2,10 +2,10 @@ repositories:
     joint_position_controller_interfaces:
         type: git
         url: https://github.com/jfrascon/joint_position_controller_interfaces.git
-        version: 3bd4822de72fb994c2d893cc11efea757f8a26b1
+        version: 99a007f7b8e829e8d13680826e7cf28590778745
         #exclude: [] # list of repos files inside repository_path to exclude (optional)
     ros2_launch_helpers:
         type: git
         url: https://github.com/jfrascon/ros2_launch_helpers.git
-        version: 8b2741affd77b889e5dbcf38840712351f691c5a
+        version: 71aadced7f30ee4e79fc16458a2c6828fc76f07a
         #exclude: [] # list of repos files inside repository_path to exclude (optional)
